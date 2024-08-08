@@ -79,3 +79,7 @@ This script automates the process of pulling various types of data from a macOS 
 
 # Pull Safari browsing history
 ./script.sh username remote_host safari history
+
+
+
+AUTHOR: Lanre Fakorede (OFF)
